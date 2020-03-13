@@ -1,0 +1,6 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* remove overflow to see the whole pattern on the whole screen */
+}
